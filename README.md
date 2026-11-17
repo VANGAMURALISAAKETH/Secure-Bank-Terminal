@@ -480,7 +480,7 @@ Through this project, I gained practical experience in:
 
 ## 14. Author
 
-**Dhanala Harsha Vardhan**
+**Vangara Murali Saaketh**
 
 Embedded Systems| Firmware Development
 
