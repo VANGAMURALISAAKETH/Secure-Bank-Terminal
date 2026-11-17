@@ -56,7 +56,7 @@ The project has two main parts:
                                    +-------------------+
                     Keypad  --->   |                   | ---> LCD Display
                                    |                   |
-                                   |                   | ---> Buzzer
+                                   |                   | 
                                    |                   |
                                    |     LPC2148       |
                                    |                   |      
